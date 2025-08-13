@@ -37,8 +37,8 @@ header a {
     <a href="index.html">Home</a>
     </header>
 <div class="container">
-    <h1>Delicious Bites</h1>
-    <p> Oops! The page you are looking for does not exist. </p>
+    <h1>{{ restaurent_name}}</h1>
+    <p class="phone"> Call us: {{9999999999}} </p>
 </div>
 </body>
 </html>
