@@ -22,10 +22,12 @@ header a {
     color: White;
     text-decoration: none;
     font-size:18px;
+    margin-right: 15px;
 }
 .container {
     padding: 20px;
     margin: auto;
+    max-width:800px;
 }
 </style>
 </head>
