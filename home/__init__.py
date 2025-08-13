@@ -35,6 +35,7 @@ header a {
 <body>
     <header>
     <a href="index.html">Home</a>
+    <a href="/menu"> Menu</a>
     </header>
 <div class="container">
     <h1>{{ restaurent_name}}</h1>
