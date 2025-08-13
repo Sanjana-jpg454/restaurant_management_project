@@ -2,7 +2,7 @@
 <head>
 <meta charset = "UTF-8">    
 <meta name="viewport" content="width=device-width, initial-scale=0.1">
-<title>About Us - Delicious Bites </title>
+<title>Contact Us - Delicious Bites </title>
 <style>
 body {
     font-family: Arial, sans-serif;
