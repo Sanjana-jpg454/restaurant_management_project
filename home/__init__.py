@@ -12,13 +12,17 @@ body {
     color: #333;
 }
 header {
-    background-color: #d35400;
+    background-color: #d35400
+    padding: 15px 20px;
 }
 header a {
     color: White;
+    text-decoration: none;
+    font-size:18px;
 }
 .container {
     padding: 20px;
+    margin: auto;
 }
 </style>
 </head>
