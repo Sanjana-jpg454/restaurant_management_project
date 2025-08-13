@@ -10,6 +10,9 @@ body {
     padding: 0;
     background-color: #fff8f0;
     color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 header {
     background-color: #d35400
