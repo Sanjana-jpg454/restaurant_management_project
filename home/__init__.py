@@ -45,9 +45,9 @@ header h1 {
 </head>
 <body>
    <header>
-   <img src="{%static 'images/logo.png' %}" alt="My Restaurant Logo" class="logo">
-   <h1>Welcome to My Restaurant</h1>
-   <p> Serving delicious food since 1999</p>
+   <footer style="text-align: center; margin-top: 20px; padding: 10px; background: #f0f0f0;">
+   <p>&copy; {{ current_year}} My Restaurant. All rights reserved.</p>
+   <p><strong>Opening Hours:</strong>Mon-Fri: 11am-9pm, sat-sun: 10am-10pm</p>
 </header>
 </body>
 </html>
