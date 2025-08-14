@@ -15,6 +15,12 @@ body {
     justify-content: center;
     min-height: 100vh;
 }
+header img.logo {
+    max-width: 150px;
+    height: auto;
+    display: block;
+    margin: 0 auto 10px;
+}
 header {
     background-color: #d35400
     padding: 15px 20px;
