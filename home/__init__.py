@@ -18,6 +18,8 @@ body {
 header {
     background-color: #d35400
     padding: 15px 20px;
+    color: white;
+    text-align: center;
 }
 header a {
     color: White;
