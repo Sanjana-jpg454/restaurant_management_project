@@ -38,8 +38,8 @@ header a {
     <a href="/menu"> Menu</a>
     </header>
 <div class="container">
-    <h1>{{ restaurent_name}}</h1>
-    <p class="phone"> Call us: {{9999999999}} </p>
+    <h1>Reservations</h1>
+    <p>Online reservations coming soon. Please call us to book a table. </p>
 </div>
 </body>
 </html>
