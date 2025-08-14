@@ -38,6 +38,8 @@ header a {
     <a href="/menu"> Menu</a>
     </header>
 <div class="container">
+<footer style="text-align": center; padding:10px;>
+</footer>
     <h1>Reservations</h1>
     <p>Online reservations coming soon. Please call us to book a table. </p>
 </div>
