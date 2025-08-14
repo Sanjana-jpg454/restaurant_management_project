@@ -2,7 +2,7 @@
 <head>
 <meta charset = "UTF-8">    
 <meta name="viewport" content="width=device-width, initial-scale=0.1">
-<title>Contact Us - Delicious Bites </title>
+<title>Welcome - Delicious Bites </title>
 <style>
 body {
     font-family: Arial, sans-serif;
@@ -26,6 +26,9 @@ header a {
     text-decoration: none;
     font-size:18px;
     margin-right: 15px;
+}
+header h1 {
+    margin: 5px 0;
 }
 .container {
     padding: 20px;
