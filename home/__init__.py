@@ -35,15 +35,10 @@ header a {
 </style>
 </head>
 <body>
-    <header>
-    <a href="index.html">Home</a>
-    <a href="/menu"> Menu</a>
-    </header>
-<div class="container">
-<footer style="text-align": center; padding:10px;>
-</footer>
-    <h1>Reservations</h1>
-    <p>Online reservations coming soon. Please call us to book a table. </p>
-</div>
+   <header>
+   <img src="{%static 'images/logo.png' %}" alt="My Restaurant Logo" class="logo">
+   <h1>Welcome to My Restaurant</h1>
+   <p> Serving delicious food since 1999</p>
+</header>
 </body>
 </html>
