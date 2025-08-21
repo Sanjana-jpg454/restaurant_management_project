@@ -48,6 +48,8 @@ header h1 {
     padding: 20px;
     margin: auto;
     max-width:800px;
+    border : none;
+
 }
 </style>
 </head>
