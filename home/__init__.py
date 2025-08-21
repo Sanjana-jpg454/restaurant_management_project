@@ -46,10 +46,12 @@ header h1 {
 <body>
    <header>
    if (name === "" || email === ""){
+    <link rel="icon" type="image/png" href="favicol">
     alert("please fill in both name and email fields.");
     event.preventDefault();
    }
    <footer style="text-align: center; margin-top: 20px; padding: 10px; background: #f0f0f0;">
+
    <p>&copy; {{ current_year}} My Restaurant. All rights reserved.</p>
    <p><strong>Opening Hours:</strong>Mon-Fri: 11am-9pm, sat-sun: 10am-10pm</p>
 </header>
