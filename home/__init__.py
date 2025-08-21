@@ -27,6 +27,14 @@ header {
     color: white;
     text-align: center;
 }
+.search-bar button{
+    padding: 10px 20px;
+    boredr: none;
+    background: #d35400;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
 header a {
     color: White;
     text-decoration: none;
